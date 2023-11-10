@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcontent_creation_generation=self.webpackChunkcontent_creation_generation||[]).push([[832],{42832:function(n,t,e){e.r(t),e.d(t,{amplify_auth_container:function(){return o}});var r=e(80022),o=function(){function n(n){(0,r.r)(this,n)}return n.prototype.render=function(){return(0,r.h)(r.H,null,(0,r.h)("form",{autoComplete:"on",hidden:!0},(0,r.h)("input",{name:"username"}),(0,r.h)("input",{name:"password",type:"password"}),(0,r.h)("input",{type:"submit"})),(0,r.h)("slot",null))},n}()}}]);
+//# sourceMappingURL=832.1db93e37.chunk.js.map
